@@ -9,7 +9,7 @@ excerpt: "This is a Amazon VPC tutorial, which provides information about your v
 ---
 
 
-This is a Amazon VPC tutorial, which provides information about your virtual private cloud (VPC) and its subnets.
+This is a Amazon VPC tutorial, which provides information about your virtual private cloud (VPC) and its internals.
 
 ## [Amazon VPC][6] 
 `Virtual Private Cloud` is your way of controlling the networking layer on which your infrastructure run. It is a virtual network and logically linked to your AWS account.
