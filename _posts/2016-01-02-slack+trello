@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Slack + Trello: An amazing combination"
+date: 2015-12-21
+author: Ramit Surana
+tags: communication messaging
+category: messaging social network 
+excerpt: "Communication and management done effectively."
+---
+
+Communication is one of the most important aspects for any company.
+Lack of communication creates a big problem for any company which is hard to solve.
+We were facing a similar challenge sometime ago.As some of our company members,like me,
+are working from remote locations,it becomes a challenge for us to communicate effectively.
+
+Tools like Skype,email,dropbox etc. have been used for
+quite sometime but it could not solve problems like this in a efficient manner.
+In order to make things work a new medium of communication is required using which we 
+solved our problem.
+
+
+![trello slack][6]
+
+## What is Slack ?
+
+Slack is a simple messaging service platform build for efficient team collabration and 
+communication.Around the globe using Slack is quite easy and higly useful.
+
+Slack has some great features that makes it easy and fun to communicate with.
+From the starting of our usage with slack,we are very impressed with its perfomance,UI 
+and capabilities.
+
+The emojis are the best part about creating fun in the communication 
+enviorment.Slack consists of a ton of different emojis to choose from.
+Using these emojis you can easily express your reaction to others.
+
+In the age of modern era,we need a bot to solve our problems like scheduling,reminders etc.
+Slackbot is a automated robot that helped us in so many ways. We use Slackbot for 
+scheduling,remainders,syncing etc.With the help of these features within Slack it has definitely 
+made our work life much easier than ever before.
+
+![less-email-more-slack][7]
+
+
+##  What is Trello ? 
+
+Trello is a an awesome project management tool that makes collaboration easy.
+Whether you're organizing work projects, family chores, travel plans, or just about anything else
+trello is always a helpful tool for you.
+
+Trello uses the concept of creating cards and adding your own lists.The list
+consists of a variety of cards upon which you can update your everyday tasks.
+The card can used to attach docs,images,due dates and remainders.
+Using this method you can easily schedule you upcoming events,set remainders,
+plans
+
+In the case of our team's usage for trello,we have created several
+different boards according to our channels on slack.Using this 
+method we easily remain up to date with the work happening on the each channel.
+
+
+![trello-3][8]
+
+
+## Conclusion:
+
+Trello and Slack are both great tools in there usage.They set an excellent 
+example on how communication and management can be done in an efficient manner
+across remote locations in a company.We are having fun enjoying the 
+combination of the two,when are you 
+planning on getting started ? :)
+
+
+Got your own story about adopting slack, tell us in the comments.
+
+**Hope you Enjoyed! Keep learning.**
+
+#####Need DevOps help? - Get in touch with [The Remote Lab][1] 
+[LinkedIn][2] [Facebook][3] [Github][4] [Twitter][5]
+
+
+  [1]: http://theremotelab.io
+  [2]: https://www.linkedin.com/company/the-remote-lab
+  [3]: https://www.facebook.com/TheRemoteLab
+  [4]: https://github.com/TheRemoteLab
+  [5]: https://twitter.com/TheRemoteLab
+  [6]: https://cloud.githubusercontent.com/assets/8342133/12071953/5fb48c02-b0ed-11e5-9d46-1fc915c9a099.png
+  [7]: https://cloud.githubusercontent.com/assets/8342133/12071970/ed85ee72-b0ed-11e5-9a99-d4b0d8d8a36a.png
+  [8]: https://cloud.githubusercontent.com/assets/8342133/12071985/455e53d6-b0ef-11e5-8fc1-ad84db4d1722.png
+
+
