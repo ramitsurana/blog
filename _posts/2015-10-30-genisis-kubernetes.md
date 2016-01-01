@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The genisis of Kubernetes"
-date: 2015-10-31
+date: 2016-01-01
 author: Ramit Surana
 tags: docker orchestration automation devops kubernetes
 category: orchestration docker google etcd coreos
