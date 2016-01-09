@@ -1,3 +1,11 @@
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
 /**
  * Reset some basic elements
  */
